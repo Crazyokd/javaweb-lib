@@ -1,0 +1,1 @@
+https://repo1.maven.org/maven2/com/mchange/mchange-commons-java/0.2.14/mchange-commons-java-0.2.14.jar
