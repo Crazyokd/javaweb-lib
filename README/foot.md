@@ -1,6 +1,13 @@
 ## Reference
-- [ruanwenjun/JAVAWeb-Project](https://github.com/ruanwenjun/JAVAWeb-Project)
-- [www.tutorialspoint.com/batch_script/index.htm](https://www.tutorialspoint.com/batch_script/index.htm)
+- [Crazyokd/learn-batch](https://github.com/Crazyokd/learn-batch)
+
+## Contribute
+If you want to contribute to this repository, please follow the steps below.
+1. Create a txt file in the lib directory.The file name is the name of the added jar package, which is removed ".jar" suffix.
+2. Add the corresponding web address to the created file.
+3. execute the [generate_content.bat](../generate_content.bat) script to update README.md.
+
+If you find a bug, consider submitting pull request or initiating an issue.
 
 ## License
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
