@@ -1,5 +1,6 @@
 ## Reference
 - [Crazyokd/learn-batch](https://github.com/Crazyokd/learn-batch)
+- [www.java2s.com/Code/Jar](http://www.java2s.com/Code/Jar/)
 
 ## Contribute
 If you want to contribute to this repository, please follow the steps below.
