@@ -23,6 +23,9 @@ This repository mainly stores some libs that may be used in Java Web application
 - [mysql-connector-java-5.1.26-bin.jar](http://www.java2s.com/Code/Jar/m/Downloadmysqlconnectorjava5123binjar.htm) 
 - [standard.jar](http://www.java2s.com/Code/Jar/s/Downloadstandardjar.htm) 
    
+## TODO
+- [ ] Use scripts to dynamically test the availability of web addresses.
+
 ## Reference
 - [Crazyokd/learn-batch](https://github.com/Crazyokd/learn-batch)
 - [www.java2s.com/Code/Jar](http://www.java2s.com/Code/Jar/)
@@ -31,7 +34,7 @@ This repository mainly stores some libs that may be used in Java Web application
 If you want to contribute to this repository, please follow the steps below.
 1. Create a txt file in the lib directory.The file name is the name of the added jar package, which is removed ".jar" suffix.
 2. Add the corresponding web address to the created file.
-3. execute the [generate_content.bat](../generate_content.bat) script to update README.md.
+3. execute the [generate_content.bat](generate_content.bat) script to update README.md.
 
 If you find a bug, consider submitting pull request or initiating an issue.
 
